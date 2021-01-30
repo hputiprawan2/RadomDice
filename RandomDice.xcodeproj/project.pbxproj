@@ -13,8 +13,6 @@
 		C780317725ABC56D00BC7922 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C780317525ABC56D00BC7922 /* Main.storyboard */; };
 		C780317925ABC56E00BC7922 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C780317825ABC56E00BC7922 /* Assets.xcassets */; };
 		C780317C25ABC56E00BC7922 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C780317A25ABC56E00BC7922 /* LaunchScreen.storyboard */; };
-		C780318725AC3BF500BC7922 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C780318625AC3BF500BC7922 /* Assets.xcassets */; };
-		C780318A25AC3C1100BC7922 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C780318925AC3C1100BC7922 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,8 +24,6 @@
 		C780317825ABC56E00BC7922 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C780317B25ABC56E00BC7922 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C780317D25ABC56E00BC7922 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C780318625AC3BF500BC7922 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../AutoLayout-iOS13/AutoLayout-iOS13/Assets.xcassets"; sourceTree = "<group>"; };
-		C780318925AC3C1100BC7922 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../AutoLayout-iOS13/AutoLayout-iOS13/Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,8 +61,6 @@
 				C780317325ABC56D00BC7922 /* ViewController.swift */,
 				C780317525ABC56D00BC7922 /* Main.storyboard */,
 				C780317825ABC56E00BC7922 /* Assets.xcassets */,
-				C780318625AC3BF500BC7922 /* Assets.xcassets */,
-				C780318925AC3C1100BC7922 /* Assets.xcassets */,
 				C780317A25ABC56E00BC7922 /* LaunchScreen.storyboard */,
 				C780317D25ABC56E00BC7922 /* Info.plist */,
 			);
@@ -132,9 +126,7 @@
 			files = (
 				C780317C25ABC56E00BC7922 /* LaunchScreen.storyboard in Resources */,
 				C780317925ABC56E00BC7922 /* Assets.xcassets in Resources */,
-				C780318725AC3BF500BC7922 /* Assets.xcassets in Resources */,
 				C780317725ABC56D00BC7922 /* Main.storyboard in Resources */,
-				C780318A25AC3C1100BC7922 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
